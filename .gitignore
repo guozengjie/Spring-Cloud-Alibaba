@@ -1,6 +1,7 @@
-# Created by .ignore support plugin (hsz.mobi)
 .gitignore
 config/target/
+service-provider/target/
+service-consumer/target/
 config/src/test/
 service-consumer/src/test/
 service-provider/src/test/
