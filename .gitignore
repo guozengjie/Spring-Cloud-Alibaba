@@ -1,7 +1,8 @@
-.gitignore
+#目标生成文件
 config/target/
 service-provider/target/
 service-consumer/target/
+#测试文件
 config/src/test/
 service-consumer/src/test/
 service-provider/src/test/
